@@ -1,0 +1,3 @@
+@@||supervisor..ext-twitch.tv/supervisor/v1$domain=twitch.tv
+
+you only need that one line and it blocks twitch ads
